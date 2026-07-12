@@ -61,7 +61,7 @@ Open Settings from the tray icon and check "Start with Windows", or:
 
 ---
 
-## More from VARO Industries
+## More from VARØ Industries
 
 Free web apps, tools, and open-source projects at [varo.industries/apps](https://varo.industries/apps)
 

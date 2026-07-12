@@ -30,6 +30,10 @@ import tkinter as tk
 import winreg
 from tkinter import ttk
 
+# ── Unique App Identity ───────────────────────────────────────────────────────
+# Prevents Windows from grouping this with other Python tray apps
+ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID("VAROIndustries.PlainTextForClaude")
+
 # ── Graceful import check ──────────────────────────────────────────────────────
 _missing: list[str] = []
 try:
