@@ -63,6 +63,6 @@ Open Settings from the tray icon and check "Start with Windows", or:
 
 ## More from VARØ Industries
 
-Free web apps, tools, and open-source projects at [varo.industries/apps](https://varo.industries/apps)
+Free web apps, tools, and open-source projects at [varo.industries/apps](https://varo.industries/apps#github)
 
 See also: [PlainText](https://github.com/VAROIndustries/PlainText) — the full clipboard monitor with rich-text stripping and OCR.
