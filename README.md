@@ -1,5 +1,8 @@
 # PlainText for Claude
 
+**🌐 Tool page: [varo.industries/tools/plaintextforclaude](https://varo.industries/tools/plaintextforclaude)** — features, screenshots, install, and FAQ.
+
+
 A Windows system-tray utility that squishes multi-line, indented text (from Claude or any AI assistant) into a single clean line. Copy messy output, get a paste-ready one-liner.
 
 Part of the [PlainText](https://github.com/VAROIndustries/PlainText) clipboard utilities family.
